@@ -2,7 +2,7 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
-  workhours = int(input('50 work hours'))
+  workhours = int(input('Enter work hours'))
 reg_hours = int(40)
 o_hours = int(10)
 reg_rate = float(18.25)
